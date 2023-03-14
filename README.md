@@ -2,7 +2,7 @@
 
 ## By Oluwabamise Omolaso
 
-***FordGO Biked DataExploration** - 
+***FordGO Bike DataExploration** - 
 
 The dataset contains data related to individual bike rides taken in a bike-sharing system that operates across the larger region of San Francisco Bay area in the year 2019 and spanned 1st of February to 1st of March. 
 
