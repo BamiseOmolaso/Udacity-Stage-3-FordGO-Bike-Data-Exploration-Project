@@ -53,8 +53,7 @@ Cleaning Steps:
 - Relationship between duration and distance: this was chosen because there is an inverse relationship rather than a direct one.
 - Relationship between age with duration and distance - this was chosen because it was seen that there is an inverse relationship where duration travelled and distances covered decrease with increasing age
 - Distribution of trips by hour of day - the relationship here shows there are more rides during the weekdays over weekends
-- Distribution of trips by age - the relationship here shows there are more rides in the younger age groups
-- Distribution of trips by gender - there are more male riders in terms of count, but female riders cover longer durations.
+- Distribution of trips by user_type, gender and age group -It is seen that the female and other gender tend to have higher average trip durations compared to the male gender and customers are also higher in average trip duration compared to subscribers.
 
 Overall, the fordgobike data exploration showed that there needs to be more investigation on the data collection process as it reveals an indirect relationship between duration and distance, a tendency for more female trip durations despite having fewer rides and seems inconsistent with reality.
 
